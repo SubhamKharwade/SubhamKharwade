@@ -19,12 +19,6 @@
   <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,github,vscode" />
 </p>---
 
-🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>---
-
 🌐 Connect With Me
 
 <p>
